@@ -25,13 +25,16 @@ If you would like to add more just send a PR =)
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 
 * [TDD with karma on React components](http://davintryon.blogspot.co.uk/2015/06/test-driven-react-with-karma-and-webpack.html)
-* [Testing React and Flux applications with Karma and Webpack](http://kentor.me/posts/testing-react-and-flux-applications-with-karma-and-webpack/)
-* [How to test React components using Karma and webpack](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/)
-* [Testing ReactJS Components with Karma and Webpack](https://www.codementor.io/reactjs/tutorial/test-reactjs-components-karma-webpack)
+
 
 #Repos/Git:
 * [Using Test Driven Development with React.js to Add Multi-Select to the Drag and Drop Component](http://reactjsnews.com/using-tdd-with-reactjs/)
 * [Unit testing React components without a DOM - Git](https://github.com/simonsmith/react-component-unit-test)
+
+#With Webpack:
+* [Testing React and Flux applications with Karma and Webpack](http://kentor.me/posts/testing-react-and-flux-applications-with-karma-and-webpack/)
+* [How to test React components using Karma and webpack](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/)
+* [Testing ReactJS Components with Karma and Webpack](https://www.codementor.io/reactjs/tutorial/test-reactjs-components-karma-webpack)
 
 #Shallow Rendering:
 * [Shallow Rendering](https://facebook.github.io/react/docs/test-utils.html#shallow-rendering)
