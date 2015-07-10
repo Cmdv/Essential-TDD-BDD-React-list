@@ -3,7 +3,7 @@ List of all TDD / BDD React.js related tutorials / links / repos / slides
 
 There seems to be little information about how to approach TDD/BDD when it comes to React.js.
 
-I started a question on [StackOverflow](http://stackoverflow.com/questions/31336618/tdd-bdd-with-react-js) but it got put on hold as it was out of context so here a list from the answer we managed to get.
+I started a question on [StackOverflow](http://stackoverflow.com/questions/31336618/tdd-bdd-with-react-js) but it got put on hold as it was out of context so here a list from the answers we managed to get.
 
 
 If you would like to add more just send a PR =)
