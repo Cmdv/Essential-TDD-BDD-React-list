@@ -14,7 +14,7 @@ If you would like to add more just send a PR or start an issue =)
 * [TDD with karma on React components](http://davintryon.blogspot.co.uk/2015/06/test-driven-react-with-karma-and-webpack.html) - Karma/Webpack. Tutorial not complete more to come. ([dtryon](https://github.com/dtryon))
 
 #Videos / Screencasts:
-* [react-bootstrap's test suite running with Karma](http://screencast.com/t/4huigNm9oc) - (3:45) )[winkler1](https://github.com/winkler1))
+* [react-bootstrap's test suite running with Karma](http://screencast.com/t/4huigNm9oc) - (3:45) ([winkler1](https://github.com/winkler1))
 
 #Repos/Git:
 * [react-tdd-guide](https://github.com/zpratt/react-tdd-guide) - Mocah/Chai/JsDom, plenty here but only valid for io.js because of JsDom use. ([zpratt](https://github.com/zpratt))
@@ -22,21 +22,19 @@ If you would like to add more just send a PR or start an issue =)
  
 #Testing:
 * **Webpack**
-  - [in-flux | nkbt](https://github.com/in-flux/in-flux) - (git) Karma/Webpack/Babel. Great examples of testing
-  - [Testing React and Flux applications with Karma and Webpack](http://kentor.me/posts/testing-react-and-flux-applications-with-karma-and-webpack/) - (tutorial)
-  - [How to test React components using Karma and webpack](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/) - (tutorial)
-  - [Testing ReactJS Components with Karma and Webpack](https://www.codementor.io/reactjs/tutorial/test-reactjs-components-karma-webpack) - (tutorial)
-  - [Karma Webpack Testing | justinwoo](http://qiita.com/kimagure/items/f2d8d53504e922fe3c5c)
-  - [Testing a react project with Karma and Webpack](http://dapperdeveloper.com/2015/05/11/testing-a-react-project-with-karma-and-webpack/) - (tutorial) Chris Harrington
-]
+  - [Testing React and Flux applications with Karma and Webpack - (tutorial)](http://kentor.me/posts/testing-react-and-flux-applications-with-karma-and-webpack/) - ([git](https://github.com/kentor/react-flux-testing)) - ([kentor](https://github.com/kentor))
+  - [How to test React components using Karma and webpack - (tutorial) ](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/) - ([necolas](https://github.com/necolas))
+  - [Testing ReactJS Components with Karma and Webpack - (tutorial)](https://www.codementor.io/reactjs/tutorial/test-reactjs-components-karma-webpack) - ([git](https://github.com/justinwoo/react-karma-webpack-testing)) - ([justinwoo](https://github.com/justinwoo))
+  - [Testing a react project with Karma and Webpack - (tutorial)](http://dapperdeveloper.com/2015/05/11/testing-a-react-project-with-karma-and-webpack/) -  Chris Harrington
+  - [in-flux - (git)](https://github.com/in-flux/in-flux) -  Karma/Webpack/Babel. Great examples of testing -  ([nkbt](https://github.com/nkbt))
 * **Gulp**
   - [Unit Testing](http://myshareoftech.com/2013/12/unit-testing-react-dot-js-with-jasmine-and-karma.html) - (tutorial) Gulp/Jasmine/Karma
 * **Jest**
-  - [Using Test Driven Development with React.js to Add Multi-Select to the Drag and Drop Component](http://reactjsnews.com/using-tdd-with-reactjs/) - (tutorial)
+  - [Using Test Driven Development with React.js to Add Multi-Select to the Drag and Drop Component - (tutorial)](http://reactjsnews.com/using-tdd-with-reactjs/) - ([HurricaneJames](https://github.com/HurricaneJames))
 * **Huxley**
-  - [Testing React components](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html) - (tutorial) with Huxley
+  - [Testing React components - (tutorial)](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html) -  with Huxley - ([wereHamster](https://github.com/wereHamster))
 * **Mocha**
-  - [Automated testing in Yahoo Mail](http://yahooeng.tumblr.com/post/115664629471/automated-testing-in-yahoo-mail) - (blog post from Yahoo)
+  - [Automated testing in Yahoo Mail](http://yahooeng.tumblr.com/post/115664629471/automated-testing-in-yahoo-mail) - (blog post from Yahoo) - ([@ankitshah2787](https://twitter.com/ankitshah2787))
   
 #Shallow Rendering:
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
