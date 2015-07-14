@@ -9,6 +9,7 @@ If you would like to add more just send a PR or start an issue =)
 
 
 #tutorials:
+* [How React Components Make UI Testing Easy](http://www.toptal.com/react/how-react-components-make-ui-testing-easy) - ([git](https://github.com/Swizec/react-testing-example)) - by ([Swizec](https://github.com/Swizec))
 * [Testing React Component](http://www.asbjornenge.com/wwc/testing_react_components.html) - great tutorial and gifs!
 * [React TDD Example](http://www.undefinednull.com/2015/05/03/react-tdd-example-unit-testing-and-building-a-react-component-with-jest-gulp-and-react-test-utils/) - Jest/Gulp/React Test Utils. Unit Testing and Building a React Component ([shidhincr](https://github.com/shidhincr))
 * [TDD with karma on React components](http://davintryon.blogspot.co.uk/2015/06/test-driven-react-with-karma-and-webpack.html) - Karma/Webpack. Tutorial not complete more to come. ([dtryon](https://github.com/dtryon))
