@@ -49,3 +49,7 @@ If you would like to add more just send a PR or start an issue =)
 #Testing enviroment comparisons:
 * [Testing with ReactJS at Codecademy](https://medium.com/about-codecademy/testing-with-reactjs-at-codecademy-2aec88cc4e36) - Karma + Jasmine vs Jest (100x faster than Jest)
 * [Testing React Web Apps with Mocha](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
+
+#Various Suites
+* [Boilerplate for bdd / tdd / testing with Tape + Testem + Webpack + Babel + React](https://github.com/Cmdv/React-Testing-Webpack-Tape)
+
