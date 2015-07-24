@@ -40,6 +40,7 @@ If you would like to add more just send a PR or start an issue =)
 #Shallow Rendering:
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 * [Shallow Rendering](https://facebook.github.io/react/docs/test-utils.html#shallow-rendering) (oficial docs)
+* [react-shallow-testutils](https://www.npmjs.com/package/react-shallow-testutils)- Replacement for TestUtils when using React's shallow rendering
 
 #Facebook/React Docs
 * [Test Utilities](http://facebook.github.io/react/docs/test-utils.html) - `React.addons.TestUtils`
