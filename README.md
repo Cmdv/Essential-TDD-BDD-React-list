@@ -37,6 +37,8 @@ If you would like to add more just send a PR or start an issue =)
   - [Testing React components - (tutorial)](https://caurea.org/2014/02/23/testing-react-components-with-huxley.html) -  with Huxley - ([wereHamster](https://github.com/wereHamster))
 * **Mocha**
   - [Automated testing in Yahoo Mail](http://yahooeng.tumblr.com/post/115664629471/automated-testing-in-yahoo-mail) - (blog post from Yahoo) - ([@ankitshah2787](https://twitter.com/ankitshah2787))
+* **Redux**
+  - [Async Redux testing](https://github.com/ruffle1986/redux-experimenting/blob/master/test/actions/cart.spec.js#L24-L54) - (github example) - ([@ruffle1986](https://github.com/ruffle1986))
   
 #Shallow Rendering:
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
