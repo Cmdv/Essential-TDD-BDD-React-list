@@ -8,7 +8,7 @@ Original question on [StackOverflow](http://stackoverflow.com/questions/31336618
 If you would like to add more just send a PR or start an issue =)
 
 
-#tutorials:
+# tutorials:
 * [How React Components Make UI Testing Easy](http://www.toptal.com/react/how-react-components-make-ui-testing-easy) - ([git](https://github.com/Swizec/react-testing-example)) - by ([Swizec](https://github.com/Swizec))
 * [Testing React Component](http://www.asbjornenge.com/wwc/testing_react_components.html) - great tutorial and gifs!
 * [React TDD Example](http://www.undefinednull.com/2015/05/03/react-tdd-example-unit-testing-and-building-a-react-component-with-jest-gulp-and-react-test-utils/) - Jest/Gulp/React Test Utils. Unit Testing and Building a React Component ([shidhincr](https://github.com/shidhincr))
@@ -16,14 +16,14 @@ If you would like to add more just send a PR or start an issue =)
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
 * [Unit Testing React Components: Jest or Enzyme?](https://www.codementor.io/react/tutorial/unit-testing-react-components-jest-or-enzyme)
 
-#Videos / Screencasts:
+# Videos / Screencasts:
 * [react-bootstrap's test suite running with Karma](http://screencast.com/t/4huigNm9oc) - (3:45) ([winkler1](https://github.com/winkler1))
 
-#Repos/Git:
+# Repos/Git:
 * [react-tdd-guide](https://github.com/zpratt/react-tdd-guide) - Mocah/Chai/JsDom, plenty here but only valid for io.js because of JsDom use. ([zpratt](https://github.com/zpratt))
 * [Unit testing React components without a DOM](https://github.com/simonsmith/react-component-unit-test) A simple example of unit testing two React components in Mocha with shallow rendering. ([simonsmith](https://github.com/simonsmith))
  
-#Testing:
+# Testing:
 * **Webpack**
   - [Testing React and Flux applications with Karma and Webpack - (tutorial)](http://kentor.me/posts/testing-react-and-flux-applications-with-karma-and-webpack/) - ([git](https://github.com/kentor/react-flux-testing)) - ([kentor](https://github.com/kentor))
   - [How to test React components using Karma and webpack - (tutorial) ](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/) - ([necolas](https://github.com/necolas))
@@ -41,20 +41,20 @@ If you would like to add more just send a PR or start an issue =)
 * **Redux**
   - [Async Redux testing](https://github.com/ruffle1986/redux-experimenting/blob/master/test/actions/cart.spec.js#L24-L54) - (github example) - ([@ruffle1986](https://github.com/ruffle1986))
   
-#Shallow Rendering:
+# Shallow Rendering:
 * [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
 * [Shallow Rendering](https://facebook.github.io/react/docs/test-utils.html#shallow-rendering) (oficial docs)
 * [react-shallow-testutils](https://www.npmjs.com/package/react-shallow-testutils)- Replacement for TestUtils when using React's shallow rendering
 
-#Facebook/React Docs
+# Facebook/React Docs
 * [Test Utilities](http://facebook.github.io/react/docs/test-utils.html) - `React.addons.TestUtils`
 * [Jest](https://facebook.github.io/jest/) - Facebook's testing enviroment based on Jasmine
 * [Testing Flux Applications](https://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html) - tutorial
 
-#Testing enviroment comparisons:
+# Testing enviroment comparisons:
 * [Testing with ReactJS at Codecademy](https://medium.com/about-codecademy/testing-with-reactjs-at-codecademy-2aec88cc4e36) - Karma + Jasmine vs Jest (100x faster than Jest)
 * [Testing React Web Apps with Mocha](http://www.hammerlab.org/2015/02/14/testing-react-web-apps-with-mocha/)
 
-#Various Suites
+# Various Suites
 * [Boilerplate for bdd / tdd / testing with Tape + Testem + Webpack + Babel + React](https://github.com/Cmdv/React-Testing-Webpack-Tape)
 
